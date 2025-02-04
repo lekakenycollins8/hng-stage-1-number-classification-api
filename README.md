@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Axios for making HTTP requests.
 
 ## Deployment
-This API is deployed on
+This API is deployed on [https://hng-stage-1-number-classification-api.onrender.com]
